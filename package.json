@@ -24,6 +24,8 @@
   "main": "./lib/XMLHttpRequest.js",
   "browser": {
     "fs": false,
-    "child_process": false
+    "child_process": false,
+    "http": false,
+    "https": false
   }
 }
